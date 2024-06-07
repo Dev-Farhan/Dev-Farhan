@@ -3,7 +3,7 @@
 ## About Me
 I am a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). With a strong foundation in web development and a knack for building scalable, efficient, and user-friendly applications, I thrive on solving complex problems and continuously improving my skill set.
 
-- 💼 **LinkedIn**: [your-linkedin-profile-here]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohd-farhan0678/))
+- 💼 **LinkedIn**: [Connect](https://www.linkedin.com/in/mohd-farhan0678/)
 - 📧 **Email**: [Join](mailto:mohdfarhan0678@gmail.com)
 
 ## Skills
